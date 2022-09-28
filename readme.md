@@ -1,6 +1,6 @@
 # 🛠 Bedrock Loot-Table Generator
 
-**⭐ [View the Website](https://bedrock-oss.github.io/bedrock-windmill/) ⭐**
+**⭐ [View the Website](https://bedrock-oss.github.io/bedrock-loot-gen/) ⭐**
 
 This website allows you to create Loot Tables for the Bedrock Edition of Minecraft. For support, you may join the [Bedrock OSS Discord](https://discord.gg/XjV87YN).
 
